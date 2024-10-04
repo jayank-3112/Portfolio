@@ -39,7 +39,7 @@ function Header() {
           />
         </h3>
         <button className="button" onClick={() => window.open('https://drive.google.com/file/d/1Xwb0r9tS5Vwm81adrSQFsQNWheq7TXHG/view?usp=sharing')}>
-          Open Resume
+          Resume
         </button>
       </div>
     </header>
