@@ -5,9 +5,9 @@ import { FaExternalLinkAlt, FaCode, FaBookOpen } from 'react-icons/fa'; // Impor
 const projectsData = [
   {
     title: 'Portfolio Website',
-    description: 'A personal portfolio website built with React.',
-    liveLink: 'https://karunchoudhary-34e3b0cc959e.herokuapp.com/', // Example link
-    repoLink: 'https://github.com/karunsehwag/Portfolio', // Example GitHub link
+    description: 'A personal portfolio website built with React.js',
+    liveLink: 'https://portfolio-1vv3sxgpt-jayank-3112s-projects.vercel.app/', // Example link
+    repoLink: 'https://github.com/jayank-3112/Portfolio', // Example GitHub link
     readMoreLink: 'https://example.com/portfolio-details', // Example Read More link
   },
   {

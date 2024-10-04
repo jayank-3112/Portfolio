@@ -10,7 +10,7 @@ function Header() {
     <header className="header" style={{ backgroundImage: `url(${backgroundImage})` }}>
       <div className="overlay"></div>
       <div className="icons">
-        <a href="https://www.linkedin.com/in/karun-choudhary-108982191" target="_blank" rel="noopener noreferrer" className="icon-link">
+        <a href="https://www.linkedin.com/in/jayank-mahaur/" target="_blank" rel="noopener noreferrer" className="icon-link">
           <FaLinkedin size={20} />
         </a>
         <a href="https://github.com/jayank-3112" target="_blank" rel="noopener noreferrer" className="icon-link">
@@ -19,9 +19,9 @@ function Header() {
         <a href="tel:+917055055277" className="icon-link">
           <FaPhone size={20} />
         </a>
-        <a 
-          href="#" 
-          className="icon-link" 
+        <a
+          href="#"
+          className="icon-link"
           onClick={() => {
             console.log("Mailto link clicked");
             window.open('mailto:jayankmahaur@gmail.com');
@@ -33,7 +33,7 @@ function Header() {
       <div className="content">
         <h1 className="name">Jayank Mahaur</h1>
         <h3 className="subtitle">
-          <TypingAnimation 
+          <TypingAnimation
             phrases={["Web Developer", "Technology Enthusiast", "Problem Solver", "Keen Learner"]}
             delay={2000} // Delay between phrases
           />
