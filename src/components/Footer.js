@@ -8,10 +8,10 @@ function Footer() {
       <div style={styles.container}>
         <p style={styles.copy}></p>
         <div style={styles.socialLinks}>
-          <a href="https://www.linkedin.com/in/karun-choudhary-108982191" style={styles.icon} target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/jayank-mahaur/" style={styles.icon} target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://github.com/karunsehwag" style={styles.icon} target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/jayank-3112" style={styles.icon} target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
         </div>
