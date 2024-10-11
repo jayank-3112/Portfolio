@@ -8,33 +8,28 @@ const projectsData = [
     description: 'A personal portfolio website built with React.js',
     liveLink: 'https://portfolio-1vv3sxgpt-jayank-3112s-projects.vercel.app/', // Example link
     repoLink: 'https://github.com/jayank-3112/Portfolio', // Example GitHub link
-    readMoreLink: 'https://example.com/portfolio-details', // Example Read More link
   },
   {
     title: 'Seam Carver',
-    description: 'A simple task manager built with Node.js and Express.',
+    description: 'A simple tool help to crops the image in between by removing the seams vertically',
     liveLink: 'https://seam-carving-1.onrender.com/', // Example link
-    repoLink: 'https://github.com/karunsehwag/seam_carving', // Example GitHub link
-    readMoreLink: 'https://example.com/todo-app-details', // Example Read More link
+    repoLink: 'https://github.com/jayank-3112/SMAI-Projects/tree/main/seam_carving', // Example GitHub link
   },
   {
     title: 'Books Library',
-    description: 'A simple task manager built with Node.js and Express.',
+    description: 'Added few features like filtering adding bookmark to the existing book management project',
     repoLink: 'https://github.com/serc-courses/se-project-1--_27', // Example GitHub link
-    readMoreLink: 'https://example.com/todo-app-details', // Example Read More link
   },
   {
     title: 'Poxis Shell Implementation',
-    description: 'A simple task manager built with Node.js and Express.',
+    description: 'A user-defined interactive shell program that can create and manage new processes out of a system program like emacs, vi, or any user-defined executable.',
     repoLink: 'https://github.com/serc-courses/se-project-1--_27', // Example GitHub link
-    readMoreLink: 'https://example.com/todo-app-details', // Example Read More link
   },
   {
     title: 'Real-Time Messaging Chat App',
-    description: 'Messaging App built using realtime MERN Stack and Socket Programming for real-time messaging.',
+    description: 'Messaging App built using realtime MERN Stack and Socket Programming for Real-Time messaging.',
     liveLink: 'https://example.com/todo-app', // Example link
-    repoLink: 'https://github.com/serc-courses/se-project-1--_27', // Example GitHub link
-    readMoreLink: 'https://example.com/todo-app-details', // Example Read More link
+    repoLink: 'https://github.com/jayank-3112/Mern_Messaging_App/tree/master', // Example GitHub link
   },
 
 ];
