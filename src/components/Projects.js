@@ -10,6 +10,12 @@ const projectsData = [
     repoLink: 'https://github.com/jayank-3112/Portfolio', // Example GitHub link
   },
   {
+    title: 'Real-Time Messaging Chat App',
+    description: 'Messaging App built using realtime MERN Stack and Socket Programming for Real-Time messaging.',
+    liveLink: 'http://mern-messaging-app-1.onrender.com/', // Example link
+    repoLink: 'https://github.com/jayank-3112/Mern_Messaging_App/tree/master', // Example GitHub link
+  },
+  {
     title: 'Seam Carver',
     description: 'A simple tool help to crops the image in between by removing the seams vertically',
     liveLink: 'https://seam-carving-1.onrender.com/', // Example link
@@ -25,12 +31,7 @@ const projectsData = [
     description: 'A user-defined interactive shell program that can create and manage new processes out of a system program like emacs, vi, or any user-defined executable.',
     repoLink: 'https://github.com/serc-courses/se-project-1--_27', // Example GitHub link
   },
-  {
-    title: 'Real-Time Messaging Chat App',
-    description: 'Messaging App built using realtime MERN Stack and Socket Programming for Real-Time messaging.',
-    liveLink: 'https://example.com/todo-app', // Example link
-    repoLink: 'https://github.com/jayank-3112/Mern_Messaging_App/tree/master', // Example GitHub link
-  },
+
 
 ];
 
