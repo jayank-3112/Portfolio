@@ -7,7 +7,7 @@ function About() {
   const [isVisible, setIsVisible] = useState(false);
   const [displayedText, setDisplayedText] = useState(''); // State for the paragraph
 
-  const text = "With a passion for building web applications and exploring cutting-edge technologies, I am a skilled back-end developer with comprehensive full-stack web development expertise. I am dedicated to creating robust and scalable web applications while continuously learning and adapting to the latest advancements in the ever-evolving field of Information Technology. Eager to contribute my expertise and grow professionally, I am committed to keeping myself updated by actively seeking new knowledge and skills, ensuring that I remain at the forefront of industry trends. With a keen eye for detail and a commitment to excellence, I am excited to leverage my skills to deliver impactful solutions and contribute to dynamic projects that make a difference in the tech landscape.";
+  const text = "With a passion for building web applications and exploring cutting-edge technologies, I am a skilled back-end developer with comprehensive full-stack web development expertise. I am dedicated to creating robust and scalable web applications while continuously learning and adapting to the latest advancements in the ever-evolving field of Information Technology. With a keen eye for detail and a commitment to excellence, I am excited to leverage my skills to deliver impactful solutions and contribute to dynamic projects that make a difference in the tech landscape.";
 
   useEffect(() => {
     const handleScroll = () => {
