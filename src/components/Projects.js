@@ -29,9 +29,13 @@ const projectsData = [
   {
     title: 'Poxis Shell Implementation',
     description: 'A user-defined interactive shell program that can create and manage new processes out of a system program like emacs, vi, or any user-defined executable.',
-    repoLink: 'https://github.com/serc-courses/se-project-1--_27', // Example GitHub link
+    repoLink: 'https://github.com/jayank-3112/POSIX-SHELL', // Example GitHub link
   },
-
+  {
+    title: 'Face Recognition using PCA',
+    description: 'Applied PCA and visualized Scree plot retaining over 90% variance while reducing 10k-dimensional space to 100. Reconstructed test images from Eigenfaces and implemented face recognition.',
+    repoLink: 'https://github.com/jayank-3112/SMAI-Projects/tree/main/Face%20Recognition', // Example GitHub link
+  },
 
 ];
 
