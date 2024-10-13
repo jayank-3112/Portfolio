@@ -38,7 +38,7 @@ function Header() {
             delay={2000} // Delay between phrases
           />
         </h3>
-        <button className="button" onClick={() => window.open('https://drive.google.com/file/d/1Xwb0r9tS5Vwm81adrSQFsQNWheq7TXHG/view?usp=sharing')}>
+        <button className="button" onClick={() => window.open('https://drive.google.com/file/d/1RrIsrUgmdeZJIZujg3qnMLA0EwHzQX-Q/view?usp=sharing')}>
           Resume
         </button>
       </div>
