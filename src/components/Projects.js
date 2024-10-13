@@ -6,7 +6,7 @@ const projectsData = [
   {
     title: 'Portfolio Website',
     description: 'A personal portfolio website built with React.js',
-    liveLink: 'https://portfolio-1vv3sxgpt-jayank-3112s-projects.vercel.app/', // Example link
+    liveLink: 'https://portfolio-jayank-3112s-projects.vercel.app/', // Example link
     repoLink: 'https://github.com/jayank-3112/Portfolio', // Example GitHub link
   },
   {
