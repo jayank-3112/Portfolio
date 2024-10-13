@@ -49,15 +49,14 @@ function Projects() {
             <h3 style={styles.projectTitle}>{project.title}</h3>
             <p style={styles.projectDescription}>{project.description}</p>
             <div style={styles.buttonGroup}>
-              <a href={project.liveLink} target="_blank" rel="noopener noreferrer" style={styles.button}>
-                <FaExternalLinkAlt style={styles.icon} /> View Live
-              </a>
+              {project.liveLink && (
+                <a href={project.liveLink} target="_blank" rel="noopener noreferrer" style={styles.button}>
+                  <FaExternalLinkAlt style={styles.icon} /> View Live
+                </a>
+              )}
               <a href={project.repoLink} target="_blank" rel="noopener noreferrer" style={styles.button}>
                 <FaCode style={styles.icon} /> Source Code
               </a>
-              {/* <a href={project.readMoreLink} target="_blank" rel="noopener noreferrer" style={styles.button}>
-                <FaBookOpen style={styles.icon} /> Read More
-              </a> */}
             </div>
           </div>
         ))}
